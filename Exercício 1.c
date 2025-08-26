@@ -35,7 +35,7 @@ int main(){
         
         switch(escolha){
             case 1:
-                if(total_pessoas = max_pessoas){
+                if(total_pessoas > max_pessoas){
                     printf("\nO número máximo de registros foi atingido!\n\n");
                     break;
                 }
