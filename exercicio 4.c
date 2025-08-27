@@ -8,7 +8,6 @@ typedef struct {
     char nome[max_letras_produto];
     float preco;
     int quantidade_estoque;
-    float quantidade_estoque_float;
     float valor_total_estoque;
 
 }Produto;
